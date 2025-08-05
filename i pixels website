@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>iPixel - Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="twitch.html">Twitch</a>
+    <a href="youtube.html">YouTube</a>
+    <a href="mods.html">Moderators</a>
+    <a href="socials.html">Socials</a>
+  </nav>
+  <header>
+    <h1>Welcome to iPixel's Site</h1>
+    <p>Your hub for streams, videos, and community!</p>
+  </header>
+</body>
+</html>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>iPixel - Twitch</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="twitch.html">Twitch</a>
+    <a href="youtube.html">YouTube</a>
+    <a href="mods.html">Moderators</a>
+    <a href="socials.html">Socials</a>
+  </nav>
+  <section class="stream">
+    <h2>Live on Twitch</h2>
+    <div class="twitch-embed">
+      <iframe
+        src="https://player.twitch.tv/?channel=ipixelofficial&parent=gihub.io
+        height="480"
+        width="100%"
+        allowfullscreen
+        frameborder="0">
+      </iframe>
+    </div>
+  </section>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>iPixel - YouTube</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="twitch.html">Twitch</a>
+    <a href="youtube.html">YouTube</a>
+    <a href="mods.html">Moderators</a>
+    <a href="socials.html">Socials</a>
+  </nav>
+  <section class="youtube">
+    <h2>Latest YouTube Videos</h2>
+    <div class="videos">
+      <iframe width="360" height="202" src="https://www.youtube.com/embed/<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>iPixel - YouTube</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="twitch.html">Twitch</a>
+    <a href="youtube.html">YouTube</a>
+    <a href="mods.html">Moderators</a>
+    <a href="socials.html">Socials</a>
+  </nav>
+  <section class="youtube">
+    <h2>Latest YouTube Videos</h2>
+    <div class="videos">
+      <iframe width="360" height="202" src="https://www.youtube.com/embed/VIDEO_ID1" frameborder="0" allowfullscreen></iframe>
+      <iframe width="360" height="202" src="https://www.youtube.com/embed/VIDEO_ID2" frameborder="0" allowfullscreen></iframe>
+      <iframe width="360" height="202" src="https://www.youtube.com/embed/VIDEO_ID3" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </section>
+</body>
+</html>frameborder="0" allowfullscreen></iframe>
+      <iframe width="360" height="202" src="https://www.youtube.com/embed/VIDEO_ID2" frameborder="0" allowfullscreen></iframe>
+      <iframe width="360" height="202" src="https://www.youtube.com/embed/VIDEO_ID3" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </section>
+</body>
+</html>
